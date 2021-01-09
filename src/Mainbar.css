@@ -1,0 +1,28 @@
+.mainbar_card {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.mainbar_image {
+  background-color: white;
+  height: 13rem;
+}
+.mainbar_image > img {
+  width: 95%;
+  height: 11rem;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.mainbar_best {
+  background-color: #0d0183;
+  color: white;
+  font-weight: 700;
+}
+.mainbar_sports {
+  display: flex;
+  justify-content: space-evenly;
+  color: #4b4b4d;
+  font-weight: 500;
+  font-size: 17px;
+}
