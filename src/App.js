@@ -7,6 +7,7 @@ import Footer from "./Footer";
 import Sidebar from "./Sidebar";
 import Mainbar from "./Mainbar";
 import Leftbar from "./Leftbar";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (

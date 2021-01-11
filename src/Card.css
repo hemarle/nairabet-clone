@@ -1,0 +1,16 @@
+.first {
+  width: 103%;
+
+  background-color: #013be5;
+}
+.card-searchs {
+  /* width: 13.5rem; */
+  /* height: 2rem; */
+  padding-top: 0.1rem;
+  padding-left: 0.1rem;
+}
+.card-search {
+  width: 108%;
+  outline: none;
+  height: 2rem;
+}

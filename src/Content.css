@@ -10,6 +10,7 @@
   font-weight: 800;
   color: #3f3f3f;
   margin-left: 10px;
+  height: 10px;
 
   /* border-bottom: 1px solid blue; */
 }
@@ -42,6 +43,8 @@ hr {
 .team {
   font-weight: 800;
   margin: 0;
+  font-size: 13px;
+  color: #606062;
 }
 .full_team {
   flex: 0.68;
@@ -63,25 +66,28 @@ button {
 }
 .time {
   display: flex;
+  font-weight: 400;
   font-size: 11px;
+  color: #606062;
 }
 .day {
   flex: 0.2;
 }
 .team_content {
-  height: 1.9rem;
+  height: 1.5rem;
 
   margin-left: 10px;
 }
 
 .black {
-  background-color: black;
+  background-color: #606062;
 }
 .odd > button {
   background-color: #e6e7eb;
   color: #606062;
   border-radius: 6px;
   border-block-width: 1px;
+  border-style: hidden;
   box-shadow: none;
   font-weight: 400;
 }

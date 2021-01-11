@@ -7,11 +7,11 @@ function Title() {
       <h1>Marle Bookmaker</h1>
 
       <div className="title_link">
-        <a> Sports</a>
-        <a> In Play</a>
-        <a> Casino</a>
-        <a> Virtuals</a>
-        <a> Golden Race</a>
+        <a href="#"> Sports</a>
+        <a href="#"> In Play</a>
+        <a href="#"> Casino</a>
+        <a href="#"> Virtuals</a>
+        <a href="#"> Golden Race</a>
       </div>
     </div>
   );

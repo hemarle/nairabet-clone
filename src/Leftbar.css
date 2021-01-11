@@ -2,3 +2,20 @@
   height: 7vh;
   background-color: mediumblue;
 }
+.bet {
+  background: transparent linear-gradient(180deg, #021ac1 0, #0d0183 100%) 0 0
+    no-repeat;
+  color: #fff;
+}
+.bet-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 31px;
+  height: 34px;
+  text-align: center;
+  margin-top: 20px;
+}
+.bet-card {
+  height: 8rem;
+}

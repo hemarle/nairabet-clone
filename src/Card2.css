@@ -1,0 +1,15 @@
+.card2 {
+  margin-top: 4px;
+  background-color: #489ffe;
+}
+
+.ash {
+  background-color: #e6e7eb;
+  color: #3f3f3f;
+  border-radius: 7px;
+  border-top-right-radius: 12px;
+  border-style: hidden;
+  outline: none;
+  margin-top: 12px;
+  margin-bottom: -19px;
+}

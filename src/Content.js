@@ -2,7 +2,6 @@ import React from "react";
 import "./Content.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import axios from "./axios";
-import requests from "./requests";
 import { useState, useEffect } from "react";
 
 function Content({ league, url, country }) {

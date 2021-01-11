@@ -1,0 +1,25 @@
+.betslip {
+  margin-top: 10px;
+}
+.bet-card {
+  align-items: center;
+}
+.betslip-button {
+  width: 5rem;
+  height: 2.3rem;
+  border-radius: 2rem;
+  background-color: #f58634;
+  color: white;
+  margin-left: 4px;
+  font-weight: 500;
+  font-size: 1.25rem;
+  align-items: center;
+}
+.betslip-search {
+  width: 60%;
+  height: 3.33rem;
+  border-radius: 1.13rem;
+  /* border: none; */
+  font-size: 1.13rem;
+  color: #606062;
+}

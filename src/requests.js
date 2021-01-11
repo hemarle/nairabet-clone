@@ -1,4 +1,4 @@
-const APIKEY = "414a1b7421c79a44b093553f67717d30";
+const APIKEY = "b0f0109fb54b33819283dbe635276e5c";
 
 const requests = {
   football: {

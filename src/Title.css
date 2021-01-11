@@ -3,6 +3,7 @@
   justify-content: space-between;
 
   text-align: center;
+  align-items: center;
 
   height: 13.5vh;
   background-color: #013be5;
@@ -17,4 +18,5 @@
 }
 .title_link > a {
   padding: 10px;
+  color: white;
 }

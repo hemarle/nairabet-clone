@@ -1,13 +1,14 @@
 .app {
   background-color: #e6e7eb;
 }
+
 .app_body {
   display: flex;
   width: 100%;
 }
 .body1 {
   flex: 0.19;
-  height: 100vh;
+  /* height: 100vh; */
   margin-top: 15px;
   margin-right: 10px;
   margin-left: 10px;
@@ -22,3 +23,9 @@
   margin-right: 10px;
   margin-left: 10px;
 }
+
+/* @media only screen and (max-width: 500px) {
+  * {
+    background-color: black;
+  }
+} */
